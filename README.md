@@ -1,7 +1,5 @@
 # Employee-Team-Generator ![](https://img.shields.io/badge/license-MIT-green)
 
-Link to App: https://ezemog1996.github.io/Employee-Team-Generator/
-
 ## Table of Contents
 
 [Description](https://github.com/ezemog1996/Employee-Team-Generator#description)
